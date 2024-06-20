@@ -11,7 +11,7 @@ sections:
       more.](https://docs.netlify.com/create/features/local-development)
     actions:
       - type: Button
-        label: Start Building
+        label: Start Building test
         url: 'https://docs.netlify.com/create/quickstart'
         size: large
         variant: contained
