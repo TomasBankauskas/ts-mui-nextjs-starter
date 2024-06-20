@@ -17,7 +17,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Read the Docs
+        label: Read the Docs test
         url: 'https://docs.netlify.com/create/overview'
         size: large
         variant: outlined
