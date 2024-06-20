@@ -27,7 +27,7 @@ sections:
       url: /images/Screenshot 2024-06-13 at 14-23-30 Home _ X.png
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: Cards Section Component test
     subtitle: Section subtitle here
     items:
       - type: Card
