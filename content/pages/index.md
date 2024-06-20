@@ -24,7 +24,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/Screenshot 2024-06-13 at 14-23-30 Home _ X.png
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
