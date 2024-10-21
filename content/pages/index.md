@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
+    title: Hero Title test
     subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
     text: >
       This is the HeroSection component. You can visually edit this component &
@@ -21,11 +21,49 @@ sections:
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: large
         variant: outlined
-        color: primary
+        color: secondary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/karsten-winegeart-M3mCahAs5Qg-unsplash.jpg
       altText: Hero section image
+  - type: CardsSection
+    title: Cards Section Title
+    subtitle: The section subtitle
+    items:
+      - type: Card
+        title: First Item Title
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        image:
+          type: Image
+          url: /images/nextjs.svg
+          altText: First item image
+        actions:
+          - type: Button
+            label: Learn more
+            url: /
+            size: medium
+            variant: text
+            color: primary
+      - type: Card
+        title: Third Item Title
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        image:
+          type: Image
+          url: /images/christopher-ayme-ocZ-_Y7-Ptg-unsplash.jpg
+          altText: Third item image
+        actions:
+          - type: Button
+            label: Learn more
+            url: /
+            size: medium
+            variant: text
+            color: primary
   - type: CardsSection
     title: Cards Section Component
     subtitle: Section subtitle here
