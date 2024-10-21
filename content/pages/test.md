@@ -3,7 +3,7 @@ type: Page
 title: test
 sections:
   - type: HeroSection
-    title: An Empty Page
+    title: An Empty Page test
     subtitle: The section subtitle
     text: >-
       Add more sections by hovering above or below this one and clicking '+ Add
